@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MS in Computer Science with 3.70 GPA
+  uni: Pohang University of Science and Technology
+  year: 2016
+  summary: Courses in Computer Vision, Machine Learning, Pattern Recognition
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BS in Computer Science with 3.05 GPA
+  uni: Georgia Institute of Technology
+  year: 2014
+  summary: Threads in Intelligence and Information Internetwork
