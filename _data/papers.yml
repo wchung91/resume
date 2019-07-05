@@ -1,5 +1,9 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: AIBRP0008 Context Aware Interactive Robot (US Patent 16227474)
+  role: Run Cui, WonTaek Chung, HyeJun Yu
+  year: 2018
+  summary: We propose a indoor navigation robot that traverses the environment to complete inventory checks and aid humans in finding products. 
 
 - organization: A Two-Stage Foreground Propagation for Moving Object Detection in a Non-Stationary Camera (AVSS)
   role: WonTaek Chung, YongHyun Kim, Yong-Joong Kim, DaiJin Kim

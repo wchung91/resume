@@ -218,7 +218,26 @@
       </section>
       <!-- end Interests -->
       {% endif %}
+      {% if site.resume_section_events %}
+      <!-- begin Links -->
+      <section class="content-section">
 
+        <header class="section-header">
+          <h2>Participated Events </h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for event in site.data.events %}
+            <li><a href={{ event.url }} itemprop="url">{{ event.description }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Links -->
+      {% endif %}
+      
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
